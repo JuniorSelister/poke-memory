@@ -1,4 +1,4 @@
-## Poke-Memory
+## Poke-Memory <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" style="position: relative; top: 10px"/>
 
 ```
   This project is consuming an API from PokeAPI.
